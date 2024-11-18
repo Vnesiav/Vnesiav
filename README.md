@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying Informatics at Universitas Multimedia Nusantara
 <!-- - 💞️ I’m looking to collaborate on ... --->
 - 📫 You can also reach me via <a href="linkedin.com/in/vianca-vanesia-35a453243
-">Linkedin</a>
+" target="_blank">Linkedin</a>
 <!-- - ⚡ Fun fact: ... -->
 
 <!---
