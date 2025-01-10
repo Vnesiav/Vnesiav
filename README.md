@@ -2,8 +2,7 @@
 <!-- - 👀 I’m interested in -->
 - 🌱 I’m currently studying Informatics at Universitas Multimedia Nusantara
 <!-- - 💞️ I’m looking to collaborate on ... --->
-- 📫 You can also reach me via <a href="linkedin.com/in/vianca-vanesia-35a453243
-" target="_blank">Linkedin</a>
+- 📫 You can also reach me via <a href="https://linkedin.com/in/vianca-vanesia" target="_blank">Linkedin</a>
 <!-- - ⚡ Fun fact: ... -->
 
 <!---
